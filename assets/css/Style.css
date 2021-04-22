@@ -1,0 +1,70 @@
+body
+{
+    background-image: url("c:/Users/Gmasa/Documents/ProjetBootstrap/assets/img/image_background.webp");
+    background-repeat: no-repeat;
+    font-family: "Cormorant";
+}
+@font-face {
+    font-family: "Cormorant";
+    src: url("c:/Users/Gmasa/Documents/ProjetBootstrap/assets/font/Cormorant.ttf");
+}
+
+@font-face {
+    font-family: "Yoruka";
+    src: url("c:/Users/Gmasa/Documents/ProjetBootstrap/assets/font/Yoruka.otf");
+}
+h1
+{
+    color: #E2C044;
+    text-shadow: 2px 0 0 black, 2px 2px 0 black, 0 2px 0 black, -2px 2px 0 black, -2px 0 0 black, -2px -2px 0 black, 0 -2px 0 black, 2px -2px 0 black;
+}
+.SubTitle
+{
+    color: #E2C044;
+    text-shadow: 2px 0 0 black, 2px 2px 0 black, 0 2px 0 black, -2px 2px 0 black, -2px 0 0 black, -2px -2px 0 black, 0 -2px 0 black, 2px -2px 0 black;
+}
+#CoverPage
+{
+    height: 82vh;
+}
+#GreyBand
+{
+    height : 10vh;
+    background-color: #D3D0CB;
+}
+#AboutPage
+{
+    background-image: url("c:/Users/Gmasa/Documents/ProjetBootstrap/assets/img/photo du chef.webp");
+    background-size: cover;
+}
+.titlebg
+{
+    background-color: #E2C044;
+    font-family: "Yoruka";
+}
+nav
+{
+    background-color: rgba(226, 192, 68, 0.75);
+    
+}
+.Title
+{
+    font-size: 300%;
+}
+#AccesPage
+{
+    background-color: #D3D0CB;
+}
+#accessTitle
+{
+    margin-bottom : 40px;
+}
+iframe
+{
+    max-height:12rem;
+}
+footer
+{
+    background-color: #E2C044;
+    height : 10vh;
+}
